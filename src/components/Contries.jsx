@@ -31,9 +31,9 @@ export const Contries = () => {
                                 <div className="card-body">
                                     {console.log(item)}
                                     <h3 className='card-title'>{item.name.common}</h3>
-                                    <h4>Capital:{item.capital}</h4>
-                                    <h6>Population: {item.population}</h6>
-                                    <h6>Area: {item.area}</h6>
+                                    <h4><i>Capital:</i>{item.capital}</h4>
+                                    <h6><i>Population:</i> {item.population}</h6>
+                                    <h6><i>Area:</i> {item.area}</h6>
                                 </div>
                                 </div>
                             </div>
