@@ -50,3 +50,8 @@
   align-items: center;
   justify-content: center;
 }
+.paginationAlbums{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
