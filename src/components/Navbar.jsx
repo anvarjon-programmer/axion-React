@@ -10,7 +10,7 @@ export const Navbar = () => {
          {/* <NavLink className='btn btn-success' to='/'>Home</NavLink> */}
          <NavLink className='btn btn-success' to='/Users'>Users Info</NavLink>
          <NavLink className='btn btn-success' to='/Contries'>Contries</NavLink>
-         <NavLink className='btn btn-success' to='/Card'>Card</NavLink>
+         <NavLink className='btn btn-success' to='/Cards'>Cards</NavLink>
         </div>
       </div>
     </div>
